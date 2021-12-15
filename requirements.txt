@@ -1,0 +1,6 @@
+opencv-python
+tesseract-ocr
+libtesseract-dev
+pytesseract
+numpy
+pandas
